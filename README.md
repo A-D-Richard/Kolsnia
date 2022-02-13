@@ -1,2 +1,3 @@
 # Kolsnia
-Hub of Novel
+Hub of Novel\
+It's my first hub
